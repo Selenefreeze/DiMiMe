@@ -3,6 +3,15 @@
 ### Introduction
 In this study, we integrate some databases and extracted a variety of associations data among microbes, metabolites, and diseases. After obtaining the trilateral association data (microbe-metabolite, metabolite-disease, and disease-microbe), we consider building a heterogeneous graph to describe the association data. In our model, microbes are used as a bridge between diseases and metabolites. In order to fuse the information of disease-microbe-metabolite graph, we use the bipartite graph attention network on the disease-microbe and metabolite-microbe bigraph. 
 
+### Usage
+#### 'Dataset' directory
+All node features and edge data of bipartite graph. Positive samples and negative samples of all kinds.
+#### 'Analysis_results' directory
+Result data used in experimental case analysis.
+#### 'Sampling' directory
+K-means method used in negative sampling.
+
+
 ### Requirements
 The model is tested to work under python3.6. The required dependencies versions are as follows:
 ```
