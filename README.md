@@ -10,7 +10,8 @@ All node features and edge data of bipartite graph. Positive samples and negativ
 Result data used in experimental case analysis.
 #### 'Sampling' directory
 K-means method used in negative sampling.
-
+#### 'model' and 'utiles'
+Model code, initialization function and evaluation metrics function involved.
 
 ### Requirements
 The model is tested to work under python3.6. The required dependencies versions are as follows:
