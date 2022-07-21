@@ -5,7 +5,7 @@ In this study, we integrate some databases and extracted a variety of associatio
 
 ### Requirements
 The model is tested to work under python3.6. The required dependencies versions are as follows:
-'''
+```
 torch==1.4.0+cu100
 torch-cluster==1.5.2
 torch-geometric==1.4.1
@@ -16,4 +16,4 @@ torchvision==0.5.0+cu100
 scikit-learn==0.21.3
 pandas==1.1.5
 numpy==1.16.0
-'''
+```
