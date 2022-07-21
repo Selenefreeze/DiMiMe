@@ -1,7 +1,7 @@
 # Microbe-bridged Disease-metabolite Associations prediction by Heterogeneous Graph Fusion
 
 ### Introduction
-Dimime model uses microbial information as a bridge to fuse disease and metabolite information through bipartite graph attention network, and finally realizes the association prediction of the disease-metabolite.
+DiMiMe model uses microbial information as a bridge to fuse disease and metabolite information through bipartite graph attention network, and finally realizes the association prediction of the disease-metabolite.
 
 ### Usage
 #### 'Dataset' directory
